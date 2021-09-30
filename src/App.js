@@ -7,7 +7,12 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😘": "Face Blowing a Kiss",
+  "😬": "Grimacing Face",
+  "😪": "Sleepy Face",
+  "🥵": "Hot Face",
+  "🥶": "Cold Face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
